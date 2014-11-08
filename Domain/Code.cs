@@ -24,7 +24,40 @@ namespace Domain
             get { return codeName; }
             set { codeName = value; }
         }
+
+        private int programmingLanguageId;
+
+        public int ProgrammingLanguageId
+        {
+            get { return programmingLanguageId; }
+            set { programmingLanguageId = value; }
+        }
+
+        private int lastVersionId;
+
+        public int LastVersionId
+        {
+            get { return lastVersionId; }
+            set { lastVersionId = value; }
+        }
+        private string isLocked;
+
+        public string IsLocked
+        {
+            get { return isLocked; }
+            set { isLocked = value; }
+        }
+
+        private int insertedBy;
+
+        public int InsertedBy
+        {
+            get { return insertedBy; }
+            set { insertedBy = value; }
+        }
         
+        
+
 
     }
 }

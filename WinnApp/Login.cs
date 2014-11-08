@@ -7,14 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WinnApp.HelperClass;
 
 namespace WinnApp
 {
-    public partial class Login : Form
+    public partial class Login : BaseForm
     {
         public Login()
         {
             InitializeComponent();
+            
         }
     }
 }

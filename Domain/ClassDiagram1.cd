@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domain.Code">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAgDABAIAwAAAAAAAAAAAAAgAAAAIAAAAAAAAg=</HashCode>
+      <FileName>Code.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.User">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAEAAwABAAEAAAAAQAAAQEAAAE=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.CodeRevision">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAABABAAAQAAAAAAAAAAABAAAAAQAABAAAAAQQ=</HashCode>
+      <FileName>CodeRevision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Category">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
